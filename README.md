@@ -1,60 +1,77 @@
 # 👋 Hi, I'm LakshmiKantha Bharadwaja Rangavajjula  
 
-**🎯 Data Analyst | Aspiring Data Engineer**  
+**💡 Data Analyst | 🚀 Aspiring Data Engineer | 📊 Data Storyteller**  
 📍 Peoria, IL | 📧 lkbharadwajarangavajjula@gmail.com | 📞 +1-309-892-1070  
-[LinkedIn](https://www.linkedin.com/in/lkbharadwaja-rangavajjula) | [GitHub](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lkbharadwaja-rangavajjula)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/your-github-username)  
 
 ---
 
 ## 🚀 About Me
-Results-driven Data Analyst and aspiring Data Engineer with **2+ years** of experience in building **ETL pipelines**, automating workflows, and delivering actionable insights using **SQL, Python, Power BI, and Tableau**. Adept at working with large datasets, optimizing data infrastructure, and collaborating with stakeholders to drive business impact.
+Results-driven **Data Analyst** and **Aspiring Data Engineer** with a passion for transforming raw data into actionable insights.  
+With **2+ years** in **ETL pipelines**, **workflow automation**, and **data visualization**, I thrive at the intersection of data engineering and analytics — optimizing infrastructure, building intelligent systems, and enabling data-driven decisions.  
+
+💡 **Specialties:**  
+- End-to-end data workflows — from **ingestion → modeling → visualization**  
+- Automation that saves hours of manual work  
+- Turning complex datasets into **clear, impactful dashboards**  
 
 ---
 
-## 🛠 Technical Skills
-- **Programming:** Python, SQL, PL/SQL, JavaScript (Basic), VBA  
-- **Machine Learning:** scikit-learn, TensorFlow (Classification, Regression), K-Means, Neural Networks  
-- **Data Engineering:** Apache Airflow, dbt, MyMRP, RapidMiner, PyShark  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, Microsoft Access, NoSQL  
-- **Visualization:** Tableau, Power BI, Excel (Advanced), Minitab  
-- **Big Data & Cloud:** Apache Spark, Hadoop, AWS S3, Redshift, Azure Data Lake, Google BigQuery  
-- **ETL & Automation:** ODBC, Batch Job Scheduling, Data Pipelines, Automation Scripting  
-- **Version Control & Ops:** GitHub, WinSCP, PuTTY  
+## 🛠 Skills & Tools
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)  
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-ffcc00?logo=oracle&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white)  
+
+**Data Engineering & ML:**  
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  
+
+**Databases & Visualization:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### **Tata Consultancy Services Ltd** — *Data Analyst*  
+**Tata Consultancy Services Ltd — Data Analyst**  
 📅 Dec 2021 – Jul 2023 | Karnataka, India  
-- Developed **200+ complex SQL queries** improving reporting accuracy by **25%**.  
-- Automated **SWIFT/ACH/NEFT/TGS payment workflows**, cutting processing time by **30%** and maintaining **99.7% SLA compliance**.  
-- Led backend testing for **Core Banking System integration**, validating payment flows with **50+ test cases/week**.  
-- Resolved **95% of critical batch job issues** within an hour, supporting **$2B+ daily transactions**.  
-- Built **real-time Power BI dashboards** to monitor exceptions, reducing reconciliation time by **40%**.  
-- Optimized compliance checks with **Python**, saving **15 hours/week** in manual validation.
+- **Boosted reporting accuracy by 25%** by engineering 200+ advanced SQL queries.  
+- **Cut payment processing time by 30%** through PL/SQL & JavaScript automation, achieving **99.7% SLA compliance**.  
+- Developed **ETL pipelines for financial data migration** with 100% integrity across 10+ systems.  
+- Built **real-time Power BI dashboards** reducing reconciliation time by 40%.  
+- Automated compliance checks via Python, saving 15+ hours/week.
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 ### **AI-Powered Surface Roughness Prediction** *(May 2025)*  
-- Predicted surface roughness from vibration signals, enabling **40% faster inspections**.  
-- Compared **Linear Regression, Fuzzy Logic, and CNN models** using modular Python pipelines.  
+🔹 Predicted surface roughness from vibration signals with **40% faster inspections** using Linear Regression, Fuzzy Logic & CNN models.  
+🔹 Built modular **Python pipeline** for end-to-end processing.
 
 ### **Heart Disease Risk Prediction** *(Dec 2024)*  
-- Built **DNN model with 92% accuracy** on 14K+ patient records.  
-- Automated ML workflow from **data cleaning** to **hyperparameter tuning**.  
+🔹 Achieved **92% accuracy** using DNN on 14K+ patient records.  
+🔹 Fully automated ML pipeline with feature scaling & dropout layers.
 
 ### **Automated Inventory System** *(Jan 2024)*  
-- Developed **Excel-VBA tools** for inventory classification & stock forecasting.  
-- Enabled **real-time Excel-Access ODBC data exchange** with predictive restocking scalability.
+🔹 Designed **Excel-VBA tools** for ABC inventory classification & stock forecasting.  
+🔹 Integrated Excel-Access **ODBC connection** for real-time inventory updates.
 
 ---
 
 ## 🎓 Education
-- **M.S. in Data Science and Engineering Analytics** — Bradley University *(Aug 2023 – May 2025)*  
-- **B.Tech in Civil Engineering** — Bapatla Engineering College *(Jul 2017 – May 2021)*  
+- **M.S. Data Science & Engineering Analytics** — Bradley University *(2023–2025)*  
+- **B.Tech Civil Engineering** — Bapatla Engineering College *(2017–2021)*  
 
 ---
 
@@ -65,4 +82,12 @@ Results-driven Data Analyst and aspiring Data Engineer with **2+ years** of expe
 
 ---
 
-💡 *"Turning data into insights, and insights into impact."*
+## 📊 GitHub Stats
+![Bharadwaja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+💬 Always open to collaborating on **Data Engineering, Analytics, or ML projects**.  
+📩 Reach me at: **lkbharadwajarangavajjula@gmail.com**  
