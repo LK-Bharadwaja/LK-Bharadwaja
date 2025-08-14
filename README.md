@@ -1,6 +1,7 @@
 # 👋 Welcome, I'm LakshmiKantha Bharadwaja Rangavajjula  
 
 **🎯 Data Analyst | Aspiring Data Engineer | Data Scientist**
+
 📍 Peoria, IL | 📧 lkbharadwajarangavajjula@gmail.com | 📞 +1-309-892-1070  
 [LinkedIn](https://www.linkedin.com/in/lkbharadwaja-rangavajjula) | [GitHub](https://github.com/your-github-username)
 
