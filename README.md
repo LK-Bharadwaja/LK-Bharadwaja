@@ -3,66 +3,67 @@
 **🎯 Data Analyst | Aspiring Data Engineer | Data Scientist**
 
 📍 Peoria, IL | 📧 lkbharadwajarangavajjula@gmail.com | 📞 +1-309-892-1070  
-[LinkedIn](https://www.linkedin.com/in/lkbharadwaja-rangavajjula) | [GitHub](https://github.com/your-github-username)
+[LinkedIn](https://www.linkedin.com/in/lkbharadwaja-rangavajjula) | [GitHub](https://github.com/LK-Bharadwaja)
 
 ---
 
 ## 🚀 About Me
-Results-driven Data Analyst and aspiring Data Engineer with **2+ years** of experience in building **ETL pipelines**, automating workflows, and delivering actionable insights using **SQL, Python, Power BI, and Tableau**. Adept at working with large datasets, optimizing data infrastructure, and collaborating with stakeholders to drive business impact.
+Results-driven Data Analyst and aspiring Data Engineer with **2 years** of experience building **scalable ETL pipelines**, automating workflows, and extracting business insights using **SQL, Python, and Power BI**. Adept at data workflows from ingestion to modeling, supporting cloud-native infrastructure, and collaborating across teams to deliver impact.
 
 ---
 
 ## 🛠 Technical Skills
-- **Programming:** Python, SQL, PL/SQL, JavaScript (Basic), VBA  
+- **Programming Languages:** Python, PySpark, SQL, PL/SQL, JavaScript (Basic), VBA  
 - **Machine Learning:** scikit-learn, TensorFlow (Classification, Regression), K-Means, Neural Networks  
-- **Data Engineering:** Apache Airflow, dbt, MyMRP, RapidMiner, PyShark  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, Microsoft Access, NoSQL  
-- **Visualization:** Tableau, Power BI, Excel (Advanced), Minitab  
-- **Big Data & Cloud:** Apache Spark, Hadoop, AWS S3, Redshift, Azure Data Lake, Google BigQuery  
-- **ETL & Automation:** ODBC, Batch Job Scheduling, Data Pipelines, Automation Scripting  
-- **Version Control & Ops:** GitHub, WinSCP, PuTTY  
+- **ETL & Data Engineering Tools:** AWS Glue, Apache Airflow, dbt, Automation Scripting  
+- **Databases & Warehousing:** Amazon RDS, DynamoDB, MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, Amazon Redshift  
+- **Visualization Tools:** Power BI, Tableau, Amazon QuickSight, Excel (Advanced)  
+- **Big Data & Cloud:** Apache Spark, Hadoop, AWS S3, Lambda, Step Functions, Kinesis, Athena, CloudWatch, IAM, Azure Data Lake, Google BigQuery  
+- **Workflow & Ops:** Data validation, pipeline monitoring, batch & real-time workflow handling, GitHub, WinSCP, PuTTY  
 
 ---
 
 ## 💼 Professional Experience
 
-### **Tata Consultancy Services Ltd** — *Data Analyst*  
-📅 Dec 2021 – Jul 2023 | Karnataka, India  
-- Developed **200+ complex SQL queries** improving reporting accuracy by **25%**.  
-- Automated **SWIFT/ACH/NEFT/TGS payment workflows**, cutting processing time by **30%** and maintaining **99.7% SLA compliance**.  
-- Led backend testing for **Core Banking System integration**, validating payment flows with **50+ test cases/week**.  
-- Resolved **95% of critical batch job issues** within an hour, supporting **$2B+ daily transactions**.  
-- Built **real-time Power BI dashboards** to monitor exceptions, reducing reconciliation time by **40%**.  
-- Optimized compliance checks with **Python**, saving **15 hours/week** in manual validation.
+### **Tata Consultancy Services Ltd** — *Data Analyst Intern, Associate System Engineer*  
+📅 Jul 2020 – Jul 2023 | Karnataka, India  
+- Built scalable **ETL pipelines** for global transactions, improving report accuracy by **25%**.  
+- Developed real-time **Power BI dashboards** to monitor payment exceptions, reducing reconciliation effort by **40%**.  
+- Automated payment workflows (**SWIFT/ACH/NEFT/TGS**) cutting processing time by **30%**, achieving **99.7% SLA**.  
+- Resolved **95% of batch issues** via **WinSCP/PuTTY**, supporting **$2B+ daily transaction volume**.  
+- Conducted **Core Banking System testing** with **50+ cases/week**, optimizing compliance via **Python scripts**.  
+- Integrated cloud-based data solutions using **AWS, Azure, and GCP** for scalable analytics.  
 
 ---
 
 ## 📂 Projects
 
 ### **AI-Powered Surface Roughness Prediction** *(May 2025)*  
-- Predicted surface roughness from vibration signals, enabling **40% faster inspections**.  
-- Compared **Linear Regression, Fuzzy Logic, and CNN models** using modular Python pipelines.  
+- Predicted surface roughness using vibration signal data, enabling **40% faster quality inspections**.  
+- Compared **Linear Regression**, **Fuzzy Logic**, and **CNN models** using modular Python pipelines.  
 
 ### **Heart Disease Risk Prediction** *(Dec 2024)*  
-- Built **DNN model with 92% accuracy** on 14K+ patient records.  
-- Automated ML workflow from **data cleaning** to **hyperparameter tuning**.  
+- Developed a **Deep Neural Network (DNN)** with **92% accuracy** using 14K+ patient records.  
+- Automated entire ML pipeline: **data cleaning → model training → hyperparameter tuning**.
 
 ### **Automated Inventory System** *(Jan 2024)*  
-- Developed **Excel-VBA tools** for inventory classification & stock forecasting.  
-- Enabled **real-time Excel-Access ODBC data exchange** with predictive restocking scalability.
+- Built **Excel-VBA tools** for inventory classification and reorder forecasting.  
+- Enabled **real-time data sync** between Excel and Access using **ODBC**, enhancing scalability.
 
 ---
 
 ## 🎓 Education
-- **M.S. in Data Science and Engineering Analytics** — Bradley University *(Aug 2023 – May 2025)*  
-- **B.Tech in Civil Engineering** — Bapatla Engineering College *(Jul 2017 – May 2021)*  
+- **M.S. in Data Science and Engineering Analytics** — *Bradley University*  
+  *Aug 2023 – May 2025, Peoria, IL*  
+- **B.Tech in Civil Engineering** — *Bapatla Engineering College*  
+  *Jul 2017 – May 2021, Bapatla, India*
 
 ---
 
 ## 📜 Certifications
-- Python for Data Science and AI – Coursera  
-- Database Structures and Management with MySQL – Coursera  
-- IBM Data Analyst Professional Certificate – Coursera  
+- **AWS Data Engineer Associate Certificate** – AWS  
+- **Database Structures and Management with MySQL** – Coursera  
+- **IBM Data Analyst Professional Certificate** – Coursera  
 
 ---
 
