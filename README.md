@@ -1,68 +1,86 @@
-# 👋 Welcome, I'm LakshmiKantha Bharadwaja Rangavajjula  
+# 👋 Welcome, I'm LakshmiKantha Bharadwaja Rangavajjula
 
-**🎯 Data Analyst | Aspiring Data Engineer | Data Scientist**
+**🎯 Associate System Engineer | AI Enthusiast**
 
-📍 Peoria, IL | 📧 lkbharadwajarangavajjula@gmail.com | 📞 +1-309-892-1070  
+📍 Peoria, IL  
+📧 lkbharadwajarangavajjula@gmail.com | 📞 +1-309-892-1070  
 [LinkedIn](https://www.linkedin.com/in/lkbharadwaja-rangavajjula) | [GitHub](https://github.com/LK-Bharadwaja)
 
 ---
 
 ## 🚀 About Me
-Results-driven Data Analyst and aspiring Data Engineer with **2 years** of experience building **scalable ETL pipelines**, automating workflows, and extracting business insights using **SQL, Python, and Power BI**. Adept at data workflows from ingestion to modeling, supporting cloud-native infrastructure, and collaborating across teams to deliver impact.
+
+Assosciate System Engineer with 3 years of professional experience in building robust data systems and a Master’s in Data
+Science, specializing in AI and Machine Learning. Proficient in Python and experienced in developing end-to-end AI solutions,
+including LLM-integrated applications and predictive models. Passionate about leveraging engineering skills to design and
+deploy innovative Agentic AI and GenAI systems to solve complex business problems.
 
 ---
 
 ## 🛠 Technical Skills
-- **Programming Languages:** Python, PySpark, SQL, PL/SQL, JavaScript (Basic), VBA  
-- **Machine Learning:** scikit-learn, TensorFlow (Classification, Regression), K-Means, Neural Networks  
-- **ETL & Data Engineering Tools:** AWS Glue, Apache Airflow, dbt, Automation Scripting  
-- **Databases & Warehousing:** Amazon RDS, DynamoDB, MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, Amazon Redshift  
-- **Visualization Tools:** Power BI, Tableau, Amazon QuickSight, Excel (Advanced)  
-- **Big Data & Cloud:** Apache Spark, Hadoop, AWS S3, Lambda, Step Functions, Kinesis, Athena, CloudWatch, IAM, Azure Data Lake, Google BigQuery  
-- **Workflow & Ops:** Data validation, pipeline monitoring, batch & real-time workflow handling, GitHub, WinSCP, PuTTY  
+
+- **Programming:** Python, PySpark, SQL, PL/SQL, JavaScript (basic), VBA  
+- **AI/ML & GenAI:** LLMs, LangChain, LangGraph, Prompt Engineering, AI Evaluation Frameworks, scikit-learn, TensorFlow, Neural Networks, K-Means  
+- **Data Engineering & ETL:** Apache Airflow, AWS Glue, dbt, Automation Scripting  
+- **Databases & Warehousing:** MySQL, PostgreSQL, Amazon RDS, DynamoDB, MongoDB, Redshift, Oracle  
+- **Data Visualization:** Power BI, Tableau, Amazon QuickSight, Advanced Excel  
+- **Cloud & Big Data:** AWS (Lambda, S3, Athena, IAM, Kinesis, CloudWatch), Apache Spark, Hadoop, Azure, GCP  
+- **DataOps & Governance:** Data validation, pipeline monitoring, workflow optimization, real-time & batch processing  
+- **Version Control & Tools:** GitHub, WinSCP, PuTTY, ALM, JIRA
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### **Tata Consultancy Services Ltd** — *Data Analyst Intern, Associate System Engineer*  
-📅 Jul 2020 – Jul 2023 | Karnataka, India  
-- Built scalable **ETL pipelines** for global transactions, improving report accuracy by **25%**.  
-- Developed real-time **Power BI dashboards** to monitor payment exceptions, reducing reconciliation effort by **40%**.  
-- Automated payment workflows (**SWIFT/ACH/NEFT/TGS**) cutting processing time by **30%**, achieving **99.7% SLA**.  
-- Resolved **95% of batch issues** via **WinSCP/PuTTY**, supporting **$2B+ daily transaction volume**.  
-- Conducted **Core Banking System testing** with **50+ cases/week**, optimizing compliance via **Python scripts**.  
-- Integrated cloud-based data solutions using **AWS, Azure, and GCP** for scalable analytics.  
+### **Tata Consultancy Services Ltd**  
+*Data Analyst Intern → Associate System Engineer*  
+📍 Karnataka, India | 🗓 Jul 2020 – Jul 2023
+
+- Designed real-time **data pipelines** using SQL, PL/SQL & Python for AI-ready analytics.
+- Automated **decision workflows** in high-volume payment systems (SWIFT/ACH/NEFT), boosting efficiency by **30%**.
+- Built **cloud-native ETL frameworks** with AWS Glue, Spark, and Airflow.
+- Led **data governance and validation** for LLM-scale datasets, ensuring integrity and observability.
+- Created **Power BI dashboards** to monitor anomalies and payment exceptions.
+- Contributed to **AI augmentation initiatives** for reconciliation, transaction categorization, and data classification.
 
 ---
 
 ## 📂 Projects
 
-### **AI-Powered Surface Roughness Prediction** *(May 2025)*  
-- Predicted surface roughness using vibration signal data, enabling **40% faster quality inspections**.  
-- Compared **Linear Regression**, **Fuzzy Logic**, and **CNN models** using modular Python pipelines.  
+### **AI-Powered Surface Roughness Prediction**  
+📅 May 2025  
+- Built Python pipeline to analyze vibration signals during industrial turning operations.  
+- Applied R² feature selection; compared Linear Regression, Fuzzy Logic, and CNN models.  
+- Achieved **40% faster inspections** for manufacturing quality control.
 
-### **Heart Disease Risk Prediction** *(Dec 2024)*  
-- Developed a **Deep Neural Network (DNN)** with **92% accuracy** using 14K+ patient records.  
-- Automated entire ML pipeline: **data cleaning → model training → hyperparameter tuning**.
+### **Heart Disease Risk Prediction**  
+📅 Dec 2024  
+- Trained a DNN model on 14K+ patient records using dropout layers & StandardScaler.  
+- Achieved **92% accuracy** with complete pipeline automation (cleaning → tuning).
 
-### **Automated Inventory System** *(Jan 2024)*  
-- Built **Excel-VBA tools** for inventory classification and reorder forecasting.  
-- Enabled **real-time data sync** between Excel and Access using **ODBC**, enhancing scalability.
+### **Automated Inventory System**  
+📅 Jan 2024  
+- Developed Excel-VBA tools (ABC Analyzer, Stock Optimizer) for smart inventory management.  
+- Enabled real-time data sync between Excel and Access via **ODBC**.
 
 ---
 
 ## 🎓 Education
-- **M.S. in Data Science and Engineering Analytics** — *Bradley University*  
-  *Aug 2023 – May 2025, Peoria, IL*  
-- **B.Tech in Civil Engineering** — *Bapatla Engineering College*  
-  *Jul 2017 – May 2021, Bapatla, India*
+
+**Bradley University**  
+*M.S. in Data Science and Engineering Analytics*  
+📍 Peoria, IL | 🗓 Aug 2023 – May 2025
+
+**Bapatla Engineering College**  
+*B.Tech in Civil Engineering*  
+📍 Bapatla, India | 🗓 Jul 2017 – May 2021
 
 ---
 
 ## 📜 Certifications
-- **AWS Data Engineer Associate Certificate** – AWS  
-- **Database Structures and Management with MySQL** – Coursera  
+
+- **AWS Data Engineer Associate** – AWS  
+- **Agentic AI with LangChain and LangGraph** – Coursera  
 - **IBM Data Analyst Professional Certificate** – Coursera  
 
 ---
