@@ -1,7 +1,7 @@
 # Hi there 👋, I'm LakshmiKantha Bharadwaja Rangavajjula
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkbharadwajarangavajjula) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lkbharadwajarangavajjula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkbharadwaja-rangavajjula) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LK-Bharadwaja)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lkbharadwajarangavajjula@gmail.com)
 
 ---
@@ -69,11 +69,11 @@ Data Engineer with 3 years of experience designing scalable data systems and an 
 ---
 
 ## 📫 Contact Me
-- **Email:** lkbharadwajarangavajjula@gmail.com  
-- **Phone:** 309-892-1070  
-- **LinkedIn:** [linkedin.com/in/lkbharadwajarangavajjula](https://www.linkedin.com/in/lkbharadwajarangavajjula)  
-- **GitHub:** [github.com/lkbharadwajarangavajjula](https://github.com/lkbharadwajarangavajjula)
+- **Email:** [lkbharadwajarangavajjula@gmail.com](mailto:lkbharadwajarangavajjula@gmail.com)
+- **Phone:** 309-892-1070
+- **LinkedIn:** [linkedin.com/in/lkbharadwaja-rangavajjula](https://www.linkedin.com/in/lkbharadwaja-rangavajjula)  
+- **GitHub:** [github.com/LK-Bharadwaja](https://github.com/LK-Bharadwaja)
 
 ---
 
-![LakshmiKantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkbharadwajarangavajjula&show_icons=true&theme=radical)
+![LakshmiKantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LK-Bharadwaja&show_icons=true&theme=radical)
