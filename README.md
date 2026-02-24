@@ -7,7 +7,11 @@
 ---
 
 ## 👨‍💻 About Me
-Data Engineer with 3 years of experience designing scalable data systems and an M.S. in Data Science specializing in AI and Machine Learning. Skilled in Python, SQL, PySpark, AWS, TensorFlow, and LangChain, with experience in ETL pipeline development, LLM-integrated applications, and predictive modeling. Passionate about creating Agentic AI and GenAI solutions that drive automation and business innovation.
+Data Engineer with 3 years of experience designing scalable data systems and an M.S. in Data Science specializing in AI and
+Machine Learning. Strong expertise in SQL, Python, PySpark SQL Server, Snowflake, and data reconciliation, with hands-on
+experience ensuring data accuracy, parity checks, and reporting consistency. Passionate about creating Agentic AI and GenAI
+solutions that drive automation and business innovation.
+
 
 ---
 
@@ -25,19 +29,29 @@ Data Engineer with 3 years of experience designing scalable data systems and an 
 
 ## 💼 Work Experience
 
-**Tata Consultancy Services Ltd** – Data Analyst Intern / Data Engineer  
+**Tata Consultancy Services Ltd** – Data Engineer  
 *July 2020 – July 2023 | Karnataka, India*
 
-- Developed 200+ SQL queries for end-to-end validation of global financial transactions, improving reporting accuracy by 25%.  
-- Built scalable ETL pipelines using Spark, Kafka, Pandas, and dbt/Prefect, processing millions of records daily.  
-- Optimized databases and warehouses (PostgreSQL, MongoDB, Redshift, Snowflake) for query performance and system scalability.  
-- Automated payment workflows with Python, PL/SQL, and JavaScript, reducing processing time by 30% and saving 15 hrs/week.  
-- Supported AI/ML & GenAI initiatives by preparing clean datasets and integrating LLM prototypes (Hugging Face, OpenAI API).  
-- Created interactive dashboards with Power BI, Tableau, and Python to enhance decision-making and business insights.
+- Designed and operated Python-based backend data services and SQL-driven pipelines supporting core banking workflows
+  within the platform for a large enterprise banking client. 
+- Built and maintained production-grade ETL pipelines ingesting, transforming, and validating high-volume financial transaction
+  data, with strict requirements for correctness, consistency, and auditability.  
+- Implemented automated reconciliation, parity checks, and data quality controls within ETL workflows to detect inconsistencies
+  early, reducing manual validation effort by 15+ hours per week and improving downstream reporting accuracy.  
+- Executed source-to-target mappings and migration testing across PostgreSQL, SQL Server, and Snowflake to support modernization of financial data platforms.  
+- Collaborated with application, database, and platform teams to define data contracts, validation rules, and ETL failurehandling strategies aligned with regulated financial environments.  
+- Developed structured logging and error-handling mechanisms to support monitoring, incident investigation, and root-cause
+  analysis in live production systems.
 
 ---
 
 ## 📂 Projects
+
+### Agentic GenAI–Driven Financial Anomaly Detection & Risk Scoring
+- Built an end-to-end pipeline performing data quality checks, anomaly detection, and consolidation for financial
+transactions.
+- Generated GenAI explanations using LangChain and computed account-level risk scores based on severity.
+- Implemented agentic decision workflows using LangGraph for automatic actions such as “Monitor” or “Investigate”.
 
 ### AI-Powered Surface Roughness Prediction (May 2025)
 - Built an end-to-end predictive system using vibration signals during turning operations, achieving 40% faster inspection cycles.  
