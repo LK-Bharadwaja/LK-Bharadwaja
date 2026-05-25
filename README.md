@@ -6,75 +6,19 @@ Backend and Data Engineer with 3+ years of experience building scalable backend 
 
 # Tech Stack
 
-## Programming Languages
-- Python
-- SQL
-- T-SQL
+**Programming Languages:** Python, SQL, T-SQL  
 
-## AI & Agentic Systems
-- LangChain
-- LangGraph
-- AI Agents
-- LLM Integration
-- Prompt Engineering
-- RAG Pipelines
-- Tool Calling
-- MCP Integrations
-- OpenAI API
-- Gemini API
-- Claude Code CLI
-- AI-Assisted Development
+**AI & Agentic Systems:** LangChain, LangGraph, AI Agents, LLM Integration, Prompt Engineering, RAG Pipelines, Tool Calling, MCP Integrations, OpenAI API, Gemini API, Claude Code CLI, AI-Assisted Development  
 
-## Backend & Software Engineering
-- FastAPI
-- REST APIs
-- SQLAlchemy
-- asyncio
-- Microservices
-- Distributed Systems
-- Asynchronous Processing
-- Event-Driven Workflows
-- Workflow Orchestration
-- Redis
-- Worker Queues
+**Backend & Software Engineering:** FastAPI, REST APIs, SQLAlchemy, asyncio, Microservices, Distributed Systems, Asynchronous Processing, Event-Driven Workflows, Workflow Orchestration, Redis, Worker Queues  
 
-## Big Data & Processing
-- PySpark
-- Spark SQL
-- Apache Spark
-- Databricks
-- Distributed Processing
-- Query Optimization
+**Big Data & Processing:** PySpark, Spark SQL, Apache Spark, Databricks, Distributed Processing, Query Optimization  
 
-## Data Engineering & Storage
-- ETL/ELT Pipelines
-- Data Modeling
-- PostgreSQL
-- SQL Server
-- Snowflake
-- DynamoDB
-- MongoDB
-- Alembic
+**Data Engineering & Storage:** ETL/ELT Pipelines, Data Modeling, PostgreSQL, SQL Server, Snowflake, DynamoDB, MongoDB, Alembic  
 
-## Cloud Platforms & DevOps
-- AWS (S3, Glue, Lambda, API Gateway, Redshift, RDS, IAM)
-- Docker
-- Docker Compose
-- Git
-- GitHub
-- GitHub Actions
-- Jira
-- Azure
+**Cloud Platforms & DevOps:** AWS (S3, Glue, Lambda, API Gateway, Redshift, RDS, IAM), Docker, Docker Compose, Git, GitHub, GitHub Actions, Jira, Azure  
 
-## Monitoring, Security & Observability
-- Logging
-- Metrics Monitoring
-- Health Checks
-- Retry Handling
-- JWT Authentication
-- Rate Limiting
-- pytest
-
+**Monitoring, Security & Observability:** Logging, Metrics Monitoring, Health Checks, Retry Handling, JWT Authentication, Rate Limiting, pytest  
 ---
 
 # Professional Experience
