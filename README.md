@@ -19,6 +19,8 @@ Backend and Data Engineer with 3+ years of experience building scalable backend 
 **Cloud Platforms & DevOps:** AWS (S3, Glue, Lambda, API Gateway, Redshift, RDS, IAM), Docker, Docker Compose, Git, GitHub, GitHub Actions, Jira, Azure  
 
 **Monitoring, Security & Observability:** Logging, Metrics Monitoring, Health Checks, Retry Handling, JWT Authentication, Rate Limiting, pytest  
+
+
 ---
 
 # Professional Experience
