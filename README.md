@@ -1,93 +1,146 @@
-# Hi there 👋, I'm LakshmiKantha Bharadwaja Rangavajjula
+# LakshmiKantha Bharadwaja Rangavajjula
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkbharadwaja-rangavajjula) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LK-Bharadwaja)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lkbharadwajarangavajjula@gmail.com)
+Backend and Data Engineer with 3+ years of experience building scalable backend systems, workflow orchestration pipelines, and cloud-native applications. Skilled in Python, FastAPI, LangChain, LangGraph, LLM integration, asynchronous processing, REST APIs, and AWS-based deployments. Experienced in developing agentic workflows, RAG pipelines, AI-assisted engineering workflows, and distributed processing systems for real-world business applications.
 
 ---
 
-## 👨‍💻 About Me
-Data Engineer with 3 years of experience designing scalable data systems and an M.S. in Data Science specializing in AI and
-Machine Learning. Strong expertise in SQL, Python, PySpark SQL Server, Snowflake, and data reconciliation, with hands-on
-experience ensuring data accuracy, parity checks, and reporting consistency. Passionate about creating Agentic AI and GenAI
-solutions that drive automation and business innovation.
+# Tech Stack
 
+## Programming Languages
+- Python
+- SQL
+- T-SQL
 
----
+## AI & Agentic Systems
+- LangChain
+- LangGraph
+- AI Agents
+- LLM Integration
+- Prompt Engineering
+- RAG Pipelines
+- Tool Calling
+- MCP Integrations
+- OpenAI API
+- Gemini API
+- Claude Code CLI
+- AI-Assisted Development
 
-## 🛠️ Technical Skills
+## Backend & Software Engineering
+- FastAPI
+- REST APIs
+- SQLAlchemy
+- asyncio
+- Microservices
+- Distributed Systems
+- Asynchronous Processing
+- Event-Driven Workflows
+- Workflow Orchestration
+- Redis
+- Worker Queues
 
-**Programming & Scripting:** Python, SQL, PL/SQL, PySpark, JavaScript (Basic), VBA, Shell Scripting  
-**AI / ML / GenAI:** TensorFlow, Keras, scikit-learn, LangChain, LangGraph, OpenAI API, Prompt Engineering, LLM Integration, Neural Networks, Classification & Regression Models, Clustering, Hyperparameter Tuning  
-**ETL & Data Engineering:** ETL Pipelines, Data Ingestion, Data Validation, Data Governance, Workflow Automation, dbt, AWS Glue, Apache Spark, Pipeline Monitoring, Data Catalog Management  
-**Databases & Warehousing:** MySQL, PostgreSQL, Oracle, MongoDB, DynamoDB, SQL Server, Amazon Redshift  
-**Visualization & BI Tools:** Power BI, Tableau, Amazon QuickSight, Excel (Advanced), Minitab, RapidMiner  
-**Cloud & Big Data:** AWS (S3, Lambda, Athena, RDS, Redshift, Kinesis, Glue, IAM, CloudWatch), Azure, GCP, Hadoop, Databricks  
-**Version Control & DevOps:** GitHub, JIRA, WinSCP, PuTTY, Docker (Basic)
+## Big Data & Processing
+- PySpark
+- Spark SQL
+- Apache Spark
+- Databricks
+- Distributed Processing
+- Query Optimization
 
----
+## Data Engineering & Storage
+- ETL/ELT Pipelines
+- Data Modeling
+- PostgreSQL
+- SQL Server
+- Snowflake
+- DynamoDB
+- MongoDB
+- Alembic
 
-## 💼 Work Experience
+## Cloud Platforms & DevOps
+- AWS (S3, Glue, Lambda, API Gateway, Redshift, RDS, IAM)
+- Docker
+- Docker Compose
+- Git
+- GitHub
+- GitHub Actions
+- Jira
+- Azure
 
-**Tata Consultancy Services Ltd** – Data Engineer  
-*July 2020 – July 2023 | Karnataka, India*
-
-- Designed and operated Python-based backend data services and SQL-driven pipelines supporting core banking workflows
-  within the platform for a large enterprise banking client. 
-- Built and maintained production-grade ETL pipelines ingesting, transforming, and validating high-volume financial transaction
-  data, with strict requirements for correctness, consistency, and auditability.  
-- Implemented automated reconciliation, parity checks, and data quality controls within ETL workflows to detect inconsistencies
-  early, reducing manual validation effort by 15+ hours per week and improving downstream reporting accuracy.  
-- Executed source-to-target mappings and migration testing across PostgreSQL, SQL Server, and Snowflake to support modernization of financial data platforms.  
-- Collaborated with application, database, and platform teams to define data contracts, validation rules, and ETL failurehandling strategies aligned with regulated financial environments.  
-- Developed structured logging and error-handling mechanisms to support monitoring, incident investigation, and root-cause
-  analysis in live production systems.
-
----
-
-## 📂 Projects
-
-### Agentic GenAI–Driven Financial Anomaly Detection & Risk Scoring
-- Built an end-to-end pipeline performing data quality checks, anomaly detection, and consolidation for financial
-transactions.
-- Generated GenAI explanations using LangChain and computed account-level risk scores based on severity.
-- Implemented agentic decision workflows using LangGraph for automatic actions such as “Monitor” or “Investigate”.
-
-### AI-Powered Surface Roughness Prediction (May 2025)
-- Built an end-to-end predictive system using vibration signals during turning operations, achieving 40% faster inspection cycles.  
-- Implemented R²-based feature selection and compared Linear Regression, Fuzzy Logic, and CNN models.  
-- Designed a modular Python pipeline for scalable data preprocessing, modeling, and evaluation.
-
-### Heart Disease Risk Prediction (Dec 2024)
-- Trained a DNN model achieving 92% accuracy on 14K+ patient records.  
-- Automated ML workflow from data cleaning to hyperparameter tuning for efficient model development.
-
-### Automated Inventory System (Jan 2024)
-- Developed Excel-VBA tools for inventory analysis and predictive restocking.  
-- Integrated real-time Excel-Access data exchange via ODBC for system scalability.
-
----
-
-## 🎓 Education
-
-**Bradley University** – M.S. in Data Science and Engineering Analytics *(Aug 2023 – May 2025)*  
-**Bapatla Engineering College** – B.Tech in Civil Engineering *(Jul 2017 – May 2021)*
-
----
-
-## 🏆 Certifications
-- AWS Data Engineer Associate Certificate – AWS  
-- Agentic AI with LangChain and LangGraph – Coursera  
-- IBM Data Analyst Professional Certificate – Coursera
+## Monitoring, Security & Observability
+- Logging
+- Metrics Monitoring
+- Health Checks
+- Retry Handling
+- JWT Authentication
+- Rate Limiting
+- pytest
 
 ---
 
-## 📫 Contact Me
-- **Email:** [lkbharadwajarangavajjula@gmail.com](mailto:lkbharadwajarangavajjula@gmail.com)
-- **Phone:** 309-892-1070
-- **LinkedIn:** [linkedin.com/in/lkbharadwaja-rangavajjula](https://www.linkedin.com/in/lkbharadwaja-rangavajjula)  
-- **GitHub:** [github.com/LK-Bharadwaja](https://github.com/LK-Bharadwaja)
+# Professional Experience
+
+## KGS Technology Group, Inc — Data Engineer / Backend Intern
+**Alpharetta, GA | Aug 2025 – Present**
+
+- Designed and developed production-grade FastAPI microservices with PostgreSQL, Redis, asynchronous worker queues, and distributed backend workflows supporting scalable job execution and workflow orchestration.
+- Built RESTful APIs with CRUD operations, job lifecycle management, webhook integrations, retry handling, rate limiting, and asynchronous task processing across multi-service environments.
+- Developed backend systems using SQLAlchemy ORM, PostgreSQL schema optimization, indexing strategies, Alembic migrations, and query performance tuning for scalable transactional workloads.
+- Leveraged AI-assisted development and rapid prototyping workflows using Claude Code CLI, Chrome DevTools MCP, Puppeteer MCP, and modern AI coding assistants to accelerate software development, debugging, and browser-based testing.
+- Implemented monitoring, logging, health-check frameworks, authentication middleware, and operational reliability features improving observability, fault tolerance, and secure service deployment.
+- Collaborated across engineering teams to support Docker-based deployments, Git workflows, production readiness validation, third-party API integrations, and distributed system troubleshooting.
 
 ---
 
-![LakshmiKantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LK-Bharadwaja&show_icons=true&theme=radical)
+## Tata Consultancy Services (TCS) — Data Engineer
+**Bangalore, India | Jul 2020 – Jun 2023**
+
+- Engineered scalable ETL/ELT and distributed data processing pipelines using Python, SQL, Apache Spark, and AWS supporting enterprise banking applications and high-volume transactional datasets.
+- Developed cloud-native ingestion and transformation workflows using AWS services including S3, Glue, Lambda, and Redshift supporting analytics, operational reporting, and enterprise data workflows.
+- Built and optimized complex SQL queries, stored procedures, views, indexing strategies, and schema designs across SQL Server, PostgreSQL, and Snowflake environments improving query performance and reliability.
+- Integrated structured data from APIs, relational databases, and enterprise banking platforms into analytics-ready systems supporting downstream reporting and operational intelligence.
+- Implemented data validation, reconciliation, monitoring, and error-handling workflows improving data quality, pipeline reliability, and production support operations.
+- Collaborated within Agile cross-functional teams to troubleshoot production pipeline issues, optimize workflow performance, and support reliable enterprise-scale deployments.
+
+---
+
+# Featured Projects
+
+## Agentic Fraud Detection Platform
+
+AI-powered fraud investigation platform built using LangGraph, Gemini APIs, and asynchronous orchestration workflows for automated fraud analysis and contextual risk summarization.
+
+### Features
+- Agentic workflow orchestration using LangGraph
+- Automated fraud investigation pipelines
+- RAG-based contextual retrieval
+- Structured LLM outputs
+- Async processing and retry handling
+- Analytics dashboards and exportable reports
+
+### Tech Stack
+Python • LangChain • LangGraph • Gemini API • FastAPI • Streamlit
+
+---
+
+# Certifications
+
+- AWS Certified Data Engineer – Associate (2026)
+- Agentic AI with LangChain and LangGraph Certification
+
+---
+
+# Education
+
+## Bradley University
+M.S. Data Science and Engineering Analytics
+
+## Bapatla Engineering College
+B.Tech Civil Engineering
+
+---
+
+# Contact
+
+- LinkedIn: www.linkedin.com/in/lkbharadwaja-rangavajjula
+- GitHub: https://github.com/LK-Bharadwaja
+- Email: lkbharadwajarangavajjula@gmail.com
